@@ -1,6 +1,6 @@
 # Cryptocurrency Analysis Project
 
-Welcome to the Cryptocurrency Analysis project repository! This project aims to provide accurate forecasts for the prices of the top three cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), and Binance Coin (BNB). By leveraging historical data and advanced forecasting techniques, this project offers insights to investors, traders, and enthusiasts in the dynamic world of cryptocurrency markets.
+Welcome to the Cryptocurrency Analysis project repository! This project aims to provide accurate forecasts for the prices of the top three cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), and Binance Coin (BNB). By leveraging historical data and advanced forecasting techniques, this project offers insights to investors, traders, and enthusiasts in the dynamic world of cryptocurrency markets. This project also utilizes Dash to present information in a user-friendly interface.
 
 ## Table of Contents
 - [Description](#description)
